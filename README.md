@@ -25,7 +25,7 @@ I am currently working as a Software Developer @[csgi.com](https://www.csgi.com/
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/c.png"  height="65" />
   </a>
   <a href="https://www.python.org/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/python.gif"  height="65" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/python.gif"  height="75" />
   </a>  
   <a href="https://isocpp.org/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/cpp.png"  height="65" />
