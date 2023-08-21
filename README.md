@@ -68,12 +68,12 @@ I am currently working as a Software Developer @[csgi.com](https://www.csgi.com/
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/linux.gif"  height="65" />
   </a>  
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/devops.png"  height="50" />
+  </a> 
+  <a href="https://www.python.org/" target="_blank" >
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/python.gif"  height="65" />
   </a>  
   <a href="https://microservices.io/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/microservices.png"  height="40" />
-  </a>  
-  <a href="https://www.python.org/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/python.gif"  height="65" />
   </a>  
 </p>
 
