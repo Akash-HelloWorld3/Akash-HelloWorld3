@@ -64,6 +64,14 @@ I am currently working as a Software Developer @[csgi.com](https://www.csgi.com/
   <a href="https://git-scm.com/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/git.png" height="70" />
   </a>
+  <a href="https://www.linux.org/"" target="_blank" >
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/linux.gif"  height="65" />
+  </a>  
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/devops.png"  height="65" />
+  </a>  
+  <a href="https://microservices.io/" target="_blank" >
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/microservices.png"  height="65" />
+  </a>  
   <a href="https://www.python.org/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/python.gif"  height="65" />
   </a>  
@@ -75,8 +83,8 @@ I am currently working as a Software Developer @[csgi.com](https://www.csgi.com/
   <a href="https://azure.microsoft.com/en-in/products/devops" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/azure.png" height="60" />
   </a>
-  <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/cicd.gif" height="60" />
+  <a href="https://github.com/" target="_blank" >
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/github.png" height="60" />
   </a>
 <!--  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/argocd.png" height="90" />
