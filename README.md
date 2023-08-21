@@ -34,7 +34,7 @@ I am currently working as a Software Developer @[csgi.com](https://www.csgi.com/
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/k8s.png"  height="80" />
   </a>
   <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/openshift.gif"  height="80" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/openshift.gif"  height="70" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
@@ -70,10 +70,10 @@ I am currently working as a Software Developer @[csgi.com](https://www.csgi.com/
   
  <p float="left">
   <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />
   </a>
   <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/prometheus.png" height="65" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/prometheus.png" height="60" />
   </a>
 </p>
  
