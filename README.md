@@ -22,13 +22,16 @@ I am currently working as a Software Developer @[csgi.com](https://www.csgi.com/
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="90" />
   </a>
     <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/c.png"  height="90" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/c.png"  height="70" />
   </a>
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+    <a href="https://isocpp.org/" target="_blank" >
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/cpp.png"  height="70" />
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/k8s.png"  height="75" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
