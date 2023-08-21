@@ -39,9 +39,6 @@ I am currently working as a Software Developer @[csgi.com](https://www.csgi.com/
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
-  </a>
   <a href="https://www.terraform.io/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/terraform.webp" width="50" />
   </a>
@@ -52,11 +49,11 @@ I am currently working as a Software Developer @[csgi.com](https://www.csgi.com/
     <a href="https://trino.io/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/trino.png" height="90" />
   </a>
-  <a href="www.tensorflow.org" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/tf.png" height="70" />
+  <a href="https://dbeaver.io/" target="_blank" >
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/dbeaver.png" height="70" />
   </a>
-  <a href="https://pytorch.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/pyt2.png" height="70" />
+  <a href="https://min.io/" target="_blank" >
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/minio.png" height="70" />
   </a>
   <a href="https://www.kubeflow.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/kf.png" height="70" />
@@ -75,9 +72,9 @@ I am currently working as a Software Developer @[csgi.com](https://www.csgi.com/
   <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/cicd.gif" height="60" />
   </a>
-  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" >
+<!--  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/argocd.png" height="90" />
-  </a>
+  </a> -->
   <a href="https://www.jenkins.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="70" />
   </a>
