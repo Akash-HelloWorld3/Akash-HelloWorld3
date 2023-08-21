@@ -95,7 +95,7 @@ I am currently working as a Software Developer @[csgi.com](https://www.csgi.com/
 ### Cloud
 
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/aws.gif"  height="75" />
   </a>
 
   
