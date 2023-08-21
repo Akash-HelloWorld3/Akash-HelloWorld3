@@ -22,10 +22,10 @@ I am currently working as a Software Developer @[csgi.com](https://www.csgi.com/
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="90" />
   </a>
     <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/c.png"  height="70" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/c.png"  height="65" />
   </a>
     <a href="https://isocpp.org/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/cpp.png"  height="70" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/cpp.png"  height="65" />
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/k8s.png"  height="75" />
