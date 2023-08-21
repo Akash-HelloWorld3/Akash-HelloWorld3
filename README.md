@@ -82,7 +82,7 @@ I am currently working as a Software Developer @[csgi.com](https://www.csgi.com/
   
  <p float="left">
   <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/postgres.png" height="90" />&nbsp;&nbsp;
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/postgres.png" height="90" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/mysql.gif" width="120" />
