@@ -66,6 +66,20 @@ I am currently working as a Software Developer @[csgi.com](https://www.csgi.com/
   </a>  
 </p>
 
+### CI/CD Tools
+  
+ <p float="left">
+  <a href="https://azure.microsoft.com/en-in/products/devops" target="_blank" >
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/azure.png" height="60" />
+  </a>
+  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" >
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/argocd.png" height="60" />
+  </a>
+  <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank" >
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/cicd.gif" height="60" />
+  </a>
+</p>
+
 ### Monitoring
   
  <p float="left">
