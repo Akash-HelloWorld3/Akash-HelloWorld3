@@ -1,4 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/000/693/934/original/dark-blue-technology-and-high-tech-abstract-background-vector.jpg)](https://ritesh.cloud)
+[![MasterHead](https://static.vecteezy.com/system/resources/previews/000/693/934/original/dark-blue-technology-and-high-tech-abstract-background-vector.jpg)](https://akashprabu.netlify.app/)
 
 <h1 align="center">Hi , I'm Akashprabu A C<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -31,7 +31,7 @@ I am currently working as a Software Developer @[csgi.com](https://www.csgi.com/
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
   </a>
   <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/terraform.webp" width="120" />
   </a>
   <a href="https://helm.sh/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="75" />
@@ -113,10 +113,10 @@ I am currently working as a Software Developer @[csgi.com](https://www.csgi.com/
 ## My Certifications 🏆
 
  <p float="left">
-  <a href="https://www.credly.com/badges/d350d694-e003-41e1-b66a-ebf61861044c/public_url" target="_blank" >
+  <a href="https://www.credly.com/earner/earned/badge/1bb3a123-ed05-4601-9529-6b9d9333806a" target="_blank" >
     <img src="https://raw.githubusercontent.com/DARK-art108/DARK-art108/master/assets/cka_from_cncfsite__281_29.png" height="120" />&nbsp;&nbsp;
   </a>
-  <a href="https://www.credential.net/eb0860f4-f20d-4b14-98cd-5635efbf2304" target="_blank" >
+  <a href="https://www.credly.com/badges/96226bee-15b6-4ab9-8d9d-9910bdc568f9" target="_blank" >
     <img src="https://raw.githubusercontent.com/DARK-art108/DARK-art108/master/assets/6708850e-76a3-4aa7-8220-6edcc9d7874f.png" width="120" />
   </a>&nbsp;&nbsp;
 </p>
@@ -130,9 +130,8 @@ I am currently working as a Software Developer @[csgi.com](https://www.csgi.com/
   
 ## 📫 How to reach me? 
 
-  ⦿ Visit my [Website](https://ritesh.cloud) 🌐 <br>
-  ⦿ Follow me on [Kaggle](https://www.kaggle.com/ritesh2000)🌐 <br>
-  ⦿ Follow me on [Dribbble](https://dribbble.com/ritesh-yadav)🎨 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/ritesh-yadav2011/) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Twitter](https://twitter.com/RiteshYadav_1) 🐦 <br>
-  ⦿ Shoot Me an [Email](mailto:daydreamingguy941@gmail.com) 💌 <br>
+  ⦿ Visit my [Website](https://akashprabu.netlify.app/) 🌐 <br>
+  ⦿ Follow me on [Instagram](https://www.instagram.com/_c.r.a.z.y_killer_/)🌐 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/akashprabu/) 👨🏻‍💻 <br>
+  ⦿ Follow me on [Twitter](https://twitter.com/Akash_c18) 🐦 <br>
+  ⦿ Shoot Me an [Email](mailto:appleakash202@gmail.com) 💌 <br>
