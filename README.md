@@ -24,9 +24,9 @@ I am currently working as a Software Developer @[csgi.com](https://www.csgi.com/
   <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/c.png"  height="65" />
   </a>
-  <a href="https://www.python.org/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/python.gif"  height="75" />
-  </a>  
+   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
+  </a>
   <a href="https://isocpp.org/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/cpp.png"  height="65" />
   </a>
@@ -45,9 +45,6 @@ I am currently working as a Software Developer @[csgi.com](https://www.csgi.com/
   <a href="https://helm.sh/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="75" />
   </a>
-   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
-  </a>
   </a>
     <a href="https://www.jenkins.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="90" />
@@ -61,6 +58,9 @@ I am currently working as a Software Developer @[csgi.com](https://www.csgi.com/
   <a href="https://www.kubeflow.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/kf.png" height="70" />
   </a>
+  <a href="https://www.python.org/" target="_blank" >
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/python.gif"  height="65" />
+  </a>  
 </p>
 
 ### Monitoring
