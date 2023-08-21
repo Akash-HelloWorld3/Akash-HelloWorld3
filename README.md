@@ -55,8 +55,14 @@ I am currently working as a Software Developer @[csgi.com](https://www.csgi.com/
   <a href="https://min.io/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/minio.png" height="70" />
   </a>
-  <a href="https://www.kubeflow.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/kf.png" height="70" />
+  <a href="https://www.postman.com/" target="_blank" >
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/postman.gif" height="70" />
+  </a>
+  <a href="https://redis.io/" target="_blank" >
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/redis.webp" height="70" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" >
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/git.png" height="70" />
   </a>
   <a href="https://www.python.org/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/python.gif"  height="65" />
