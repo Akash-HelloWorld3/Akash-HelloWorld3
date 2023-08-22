@@ -37,19 +37,19 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
-  <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/terraform.webp" width="50" />
-  </a>
   <a href="https://docs.nats.io/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/natsjs.png"  height="75" />
   </a>
+  <a href="https://www.python.org/" target="_blank" >
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/python.gif"  height="80" />
+  </a> 
   <a href="https://www.linux.org/"" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/linux.gif"  height="65" />
   </a>  
-  <a href="https://www.python.org/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/python.gif"  height="80" />
-  </a>  
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/devops.png"  height="50" />
+  <a href="https://www.terraform.io/" target="_blank" >
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/terraform.webp" width="50" />
+  </a>
+  <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/devops.png"  height="50" />
   <a href="https://microservices.io/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/microservices.png"  height="40" />
   </a>  
