@@ -99,18 +99,6 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/trino.png" height="90" />
   </a>
 
-### Monitoring
-  
- <p float="left">
-  <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />
-  </a>
-  <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/prometheus.png" height="60" />
-  </a>
-</p>
- 
-
 ### Databases
   
  <p float="left">
@@ -125,6 +113,17 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
   </a>
 </p>
 
+### Monitoring
+  
+ <p float="left">
+  <a href="https://grafana.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />
+  </a>
+  <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/prometheus.png" height="60" />
+  </a>
+</p>
+ 
   ## 📊 Github Stats (Expand to View) 
   
   <details>
