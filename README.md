@@ -47,21 +47,6 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
     <a href="https://trino.io/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/trino.png" height="90" />
   </a>
-  <a href="https://dbeaver.io/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/dbeaver.png" height="70" />
-  </a>
-  <a href="https://min.io/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/minio.png" height="70" />
-  </a>
-  <a href="https://www.postman.com/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/postman.gif" height="70" />
-  </a>
-  <a href="https://redis.io/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/redis.webp" height="70" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/git.png" height="70" />
-  </a>
   <a href="https://www.linux.org/"" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/linux.gif"  height="65" />
   </a>  
@@ -123,6 +108,23 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/aws.gif"  height="75" />
   </a>
 
+### Other Tools
+
+  <a href="https://dbeaver.io/" target="_blank" >
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/dbeaver.png" height="70" />
+  </a>
+  <a href="https://min.io/" target="_blank" >
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/minio.png" height="70" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank" >
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/postman.gif" height="70" />
+  </a>
+  <a href="https://redis.io/" target="_blank" >
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/redis.webp" height="70" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" >
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/git.png" height="70" />
+  </a>
   
   ## 📊 Github Stats (Expand to View) 
   
