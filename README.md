@@ -3,13 +3,11 @@
 <h1 align="center">Hi , I'm Akashprabu A C<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-I am [Akash](https://akashprabu.netlify.app/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in DevOps⚙️ and Software Development🤖.
+I am [Akash](https://akashprabu.netlify.app/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in DevOps⚙️ and Software Development🧑🏻‍💻.
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DARK-art108&theme=algolia" alt="DARK-art108" /></p>
 
-I ❤️ to work with Cloud-Native technologies and Golang ( Go ). I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes, Docker, Openshift, Terraform, AWS,CI/CD, etc. and proficient with metric collection & monitoring tools such as Grafana,Kibana and Prometheus.
-
-I am currently working as a Software Developer @[csgi.com](https://www.csgi.com/).
+I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) on Ascendon Rating & Charging (ARC), a cloud-native SaaS product designed to help operators implement real-time online charging (OCS) functionality. I ❤️ to work with Cloud-Native technologies and Golang ( Go ). I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes, Docker, Openshift, Terraform, AWS,CI/CD, etc. and proficient with metric collection & monitoring tools such as Grafana, Kibana and Prometheus.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DARK-art108&label=Profile%20views&color=0e75b6&style=plastic" alt="DARK-art108" /> </p>
 
