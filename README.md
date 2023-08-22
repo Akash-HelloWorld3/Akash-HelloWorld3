@@ -43,10 +43,6 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
   <a href="https://docs.nats.io/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/natsjs.png"  height="75" />
   </a>
-  </a>
-    <a href="https://trino.io/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/trino.png" height="90" />
-  </a>
   <a href="https://www.linux.org/"" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/linux.gif"  height="65" />
   </a>  
@@ -125,7 +121,10 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
   <a href="https://git-scm.com/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/git.png" height="70" />
   </a>
-  
+  <a href="https://trino.io/" target="_blank" >
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/trino.png" height="90" />
+  </a>
+
   ## 📊 Github Stats (Expand to View) 
   
   <details>
