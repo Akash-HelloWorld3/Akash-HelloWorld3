@@ -162,8 +162,8 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
 
   
 ## 🎧 Spotify Playing 
-  [<img src="https://spotify-readme.dark-art108.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="450" />](https://open.spotify.com/user/316jsag3fisl42rcnnssu7jersee)
-  
+  [<img src="https://spotify-readme.dark-art108.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="450" />](https://open.spotify.com/playlist/35YKENHVUXfmlo6ar4k4T8)
+  <!--(https://open.spotify.com/user/316jsag3fisl42rcnnssu7jersee) -->
   
 ## 📫 How to reach me? 
 
