@@ -37,40 +37,40 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
 
 <p float="left">
   <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="90" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="80" />
   </a>
   <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/c.svg"  height="65" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/c.svg"  height="60" />
   </a>
   <a href="https://isocpp.org/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/cpp.svg"  height="65" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/cpp.svg"  height="60" />
   </a>
   <a href="https://python.org/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/python.svg"  height="65" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/python.svg"  height="60" />
   </a>   
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="65" />
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/k8s.png"  height="80" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/k8s.png"  height="75" />
   </a>
   <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/openshift.gif"  height="70" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/openshift.gif"  height="65" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="75" /> 
   </a>
   <a href="https://docs.nats.io/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/natsjs.png"  height="75" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/natsjs.png"  height="70" />
   </a>
   <!-- <a href="https://www.python.org/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/python.gif"  height="80" />
   </a> -->
   <a href="https://www.linux.org/"" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/linux.gif"  height="65" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/linux.gif"  height="60" />
   </a>  
   <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/terraform.webp" width="50" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/terraform.webp" width="45" />
   </a>
  <!-- <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/devops.png"  height="50" /> -->
  <!-- <a href="https://microservices.io/" target="_blank" >
@@ -81,58 +81,58 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
 <!-- ### Cloud -->
 
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/aws.gif"  height="60" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/aws.gif"  height="55" />
   </a>
 
 <!-- ### CI/CD Tools -->
   
  <!-- <p float="left"> -->
   <a href="https://azure.microsoft.com/en-in/products/devops" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/azure.png" height="60" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/azure.png" height="55" />
   </a>
   <a href="https://github.com/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/github.png" height="80" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/github.png" height="75" />
   </a>
 <!--  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/argocd.png" height="90" />
   </a> -->
   <a href="https://www.jenkins.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="80" />
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="75" />
   </a>
 <!-- </p> -->
 
 <!--### Other Tools -->
 
   <a href="https://dbeaver.io/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/dbeaver.png" height="60" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/dbeaver.png" height="55" />
   </a>
   <a href="https://min.io/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/minio.png" height="60" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/minio.png" height="55" />
   </a>
   <a href="https://www.postman.com/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/postman.gif" height="60" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/postman.gif" height="55" />
   </a>
   <a href="https://redis.io/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/redis.webp" height="60" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/redis.webp" height="55" />
   </a>
   <a href="https://git-scm.com/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/git.png" height="60" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/git.png" height="55" />
   </a>
   <a href="https://trino.io/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/trino.png" height="80" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/trino.png" height="75" />
   </a>
 
 <!-- ### Databases -->
   
  <!-- <p float="left"> -->
   <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/postgres.png" height="80" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/postgres.png" height="75" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/mysql.gif" width="80" />
   </a>&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="70" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="65" />
   </a>
 <!-- </p> -->
 
@@ -140,10 +140,10 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
   
  <!-- <p float="left"> -->
   <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="65" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />
   </a>
   <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/prometheus.png" height="65" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/prometheus.png" height="60" />
   </a>
 <!-- </p> -->
  
