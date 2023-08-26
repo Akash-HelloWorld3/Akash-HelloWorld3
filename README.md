@@ -109,20 +109,25 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
   
 ## 📫 How to reach me? 
 <p align = "center">
- <img src = "https://github.com/rahulsiddarth/rahulsiddarth/blob/main/blogging.svg" width = 400 height=200>
+ <img src = "https://github.com/akashprabu/Portfolio/blob/main/media/images/programmer.svg" width = 400 height=200>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/akashprabu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.instagram.com/_c.r.a.z.y_killer_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/Akash_c18">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="mailto:appleakash202@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="G-Mail Badge"/>
+  </a>
 </div>
 </p>
+
+
   ⦿ Visit my [Website](https://akashprabu.netlify.app/) 🌐 <br>
   ⦿ Follow me on [Instagram](https://www.instagram.com/_c.r.a.z.y_killer_/)🌐 <br>
   ⦿ Shoot Me an [Email](mailto:appleakash202@gmail.com) 💌 <br>
