@@ -13,10 +13,10 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
 
 <!-- <img align='right' src="https://i.pinimg.com/originals/50/44/30/50443067a22e6dd1ecc2d2e394d6e634.gif" width="300"> -->
 
-  ## 📊 Github Stats 
+  <!-- ## 📊 Github Stats -->
   
 <p align = "center">
-  <img src = "https://github-stats-readme.dark-art108.vercel.app/api?username=DARK-art108&show_icons=true&theme=radical" width = 600>
+  <img src = "https://github-stats-readme.dark-art108.vercel.app/api?username=DARK-art108&show_icons=true&theme=radical" width = 500>
   <img src = "https://github-stats-readme.dark-art108.vercel.app/api/top-langs/?username=DARK-art108&layout=compact" width = 400>
  <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsiddarth&layout=compact" width = 400>
   <img src = "https://github.com/rahulsiddarth/rahulsiddarth/blob/main/blogging.svg" width = 400 height=200> -->
