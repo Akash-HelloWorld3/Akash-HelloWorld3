@@ -15,12 +15,23 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
 
   <!-- ## 📊 Github Stats -->
   
+<p><img align="left" src="https://github-stats-readme.dark-art108.vercel.app/api?username=DARK-art108&show_icons=true&theme=radical" alt="Akash-HelloWorld3" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-stats-readme.dark-art108.vercel.app/api/top-langs/?username=DARK-art108&layout=compact" alt="Akash-HelloWorld3" /></p>
+
+<!--
 <p align = "center">
-  <img src = "https://github-stats-readme.dark-art108.vercel.app/api?username=DARK-art108&show_icons=true&theme=radical" width = 400 height= 400>
+  <img src = "https://github-stats-readme.dark-art108.vercel.app/api?username=DARK-art108&show_icons=true&theme=radical" width = 400 height= 300>
   <img src = "https://github-stats-readme.dark-art108.vercel.app/api/top-langs/?username=DARK-art108&layout=compact" width = 400>
  <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsiddarth&layout=compact" width = 400>
   <img src = "https://github.com/rahulsiddarth/rahulsiddarth/blob/main/blogging.svg" width = 400 height=200> -->
-</p> 
+<!-- </p>  -->
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeswanthyesu163&show_icons=true&locale=en&layout=compact" alt="yeswanthyesu163" /></p> -->
+
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeswanthyesu163&show_icons=true&locale=en" alt="yeswanthyesu163" /></p>  -->
+
 
 ## :zap: Skills and Tools
 
