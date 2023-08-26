@@ -110,7 +110,7 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
 ## 📫 How to reach me? 
 <p align = "center">
  <img src = "https://github.com/rahulsiddarth/rahulsiddarth/blob/main/blogging.svg" width = 400 height=200>
-</p>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/akashprabu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -122,6 +122,7 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+</p>
   ⦿ Visit my [Website](https://akashprabu.netlify.app/) 🌐 <br>
   ⦿ Follow me on [Instagram](https://www.instagram.com/_c.r.a.z.y_killer_/)🌐 <br>
   ⦿ Shoot Me an [Email](mailto:appleakash202@gmail.com) 💌 <br>
