@@ -9,7 +9,7 @@ I am [Akash](https://akashprabu.netlify.app/), a passionate and creative develop
 
 I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) on Ascendon Rating & Charging (ARC), a cloud-native SaaS product designed to help operators implement real-time online charging (OCS) functionality. I ❤️ to work with Cloud-Native technologies and Golang ( Go ). I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes, Docker, Openshift, Terraform, AWS,CI/CD, etc. and proficient with metric collection & monitoring tools such as Grafana, Kibana and Prometheus.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=DARK-art108&label=Profile%20views&color=0e75b6&style=plastic" alt="DARK-art108" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Akash-HelloWorld3" alt="Akash-HelloWorld3" /> </p>
 
 <!-- <img align='right' src="https://i.pinimg.com/originals/50/44/30/50443067a22e6dd1ecc2d2e394d6e634.gif" width="300"> -->
 
