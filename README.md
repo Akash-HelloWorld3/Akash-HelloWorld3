@@ -158,10 +158,10 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
 
  <p float="left">
   <a href="https://www.credly.com/earner/earned/badge/1bb3a123-ed05-4601-9529-6b9d9333806a" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/ccna.png" height="120" />&nbsp;&nbsp;
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/ccna.png" height="100" />&nbsp;&nbsp;
   </a>
   <a href="https://www.credly.com/earner/earned/badge/96226bee-15b6-4ab9-8d9d-9910bdc568f9" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/python_101_data_science.png" width="120" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/python_101_data_science.png" width="100" />
   </a>&nbsp;&nbsp;
 </p>
 
