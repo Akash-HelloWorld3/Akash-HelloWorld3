@@ -110,7 +110,8 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
 ## 📫 How to reach me? 
 <p align = "center">
  <img src = "https://github.com/akashprabu/Portfolio/blob/main/media/images/programmer.svg" width = 400 height=200>
-
+</p>
+<p align = "center">
   <a href="https://www.linkedin.com/in/akashprabu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
