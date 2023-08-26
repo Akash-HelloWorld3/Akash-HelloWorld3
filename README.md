@@ -60,9 +60,9 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
   <a href="https://docs.nats.io/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/natsjs.png"  height="75" />
   </a>
-  <a href="https://www.python.org/" target="_blank" >
+  <!-- <a href="https://www.python.org/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/python.gif"  height="80" />
-  </a> 
+  </a> -->
   <a href="https://www.linux.org/"" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/linux.gif"  height="65" />
   </a>  
@@ -72,8 +72,8 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
  <!-- <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/devops.png"  height="50" /> -->
  <!-- <a href="https://microservices.io/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/microservices.png"  height="40" />
-  </a>   -->
-</p>
+  </a>   
+</p> -->
 
 <!-- ### Cloud -->
 
@@ -83,7 +83,7 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
 
 <!-- ### CI/CD Tools -->
   
- <p float="left">
+ <!-- <p float="left"> -->
   <a href="https://azure.microsoft.com/en-in/products/devops" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/azure.png" height="70" />
   </a>
@@ -96,7 +96,7 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
   <a href="https://www.jenkins.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="80" />
   </a>
-</p>
+<!-- </p> -->
 
 <!--### Other Tools -->
 
@@ -121,7 +121,7 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
 
 <!-- ### Databases -->
   
- <p float="left">
+ <!-- <p float="left"> -->
   <a href="https://www.postgresql.org/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/postgres.png" height="80" />
   </a>
@@ -131,18 +131,18 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="70" />
   </a>
-</p>
+<!-- </p> -->
 
 <!-- ### Monitoring -->
   
- <p float="left">
+ <!-- <p float="left"> -->
   <a href="https://grafana.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="65" />
   </a>
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/prometheus.png" height="65" />
   </a>
-</p>
+<!-- </p> -->
  
 <!-- ## 📊 My Kaggle Stats 
 
