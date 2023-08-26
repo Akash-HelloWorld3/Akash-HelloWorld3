@@ -69,19 +69,19 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
   <a href="https://www.terraform.io/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/terraform.webp" width="50" />
   </a>
-  <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/devops.png"  height="50" />
-  <a href="https://microservices.io/" target="_blank" >
+ <!-- <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/devops.png"  height="50" /> -->
+ <!-- <a href="https://microservices.io/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/microservices.png"  height="40" />
-  </a>  
+  </a>   -->
 </p>
 
-### Cloud
+<!-- ### Cloud -->
 
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/aws.gif"  height="70" />
   </a>
 
-### CI/CD Tools
+<!-- ### CI/CD Tools -->
   
  <p float="left">
   <a href="https://azure.microsoft.com/en-in/products/devops" target="_blank" >
@@ -98,7 +98,7 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
   </a>
 </p>
 
-### Other Tools
+<!--### Other Tools -->
 
   <a href="https://dbeaver.io/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/dbeaver.png" height="60" />
@@ -119,7 +119,7 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/trino.png" height="80" />
   </a>
 
-### Databases
+<!-- ### Databases -->
   
  <p float="left">
   <a href="https://www.postgresql.org/" target="_blank" >
@@ -133,7 +133,7 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
   </a>
 </p>
 
-### Monitoring
+<!-- ### Monitoring -->
   
  <p float="left">
   <a href="https://grafana.com/" target="_blank" >
