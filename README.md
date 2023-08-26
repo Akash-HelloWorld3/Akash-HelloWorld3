@@ -158,7 +158,7 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
 
  <p float="left">
   <a href="https://www.credly.com/earner/earned/badge/1bb3a123-ed05-4601-9529-6b9d9333806a" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/DARK-art108/master/assets/cka_from_cncfsite__281_29.png" height="120" />&nbsp;&nbsp;
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/ccna.png" height="120" />&nbsp;&nbsp;
   </a>
   <a href="https://www.credly.com/badges/96226bee-15b6-4ab9-8d9d-9910bdc568f9" target="_blank" >
     <img src="https://raw.githubusercontent.com/DARK-art108/DARK-art108/master/assets/6708850e-76a3-4aa7-8220-6edcc9d7874f.png" width="120" />
