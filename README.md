@@ -171,7 +171,7 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
 
   
 ## 🎧 Spotify Playing 
- [<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31xrlebyk5se7fafw2fdj7u3q4em&cover_image=true&theme=novatorem&show_offline=false&background_color=611a1a&interchange=true&bar_color=ffffff&bar_color_cover=true" alt=" Spotify Playing" width="400" />](https://spotify-github-profile.vercel.app/api/view.svg?uid=31xrlebyk5se7fafw2fdj7u3q4em&redirect=true)
+ [<img src="https://spotify-readme.dark-art108.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="400" />](https://spotify-github-profile.vercel.app/api/view.svg?uid=31xrlebyk5se7fafw2fdj7u3q4em&redirect=true)
   <!--(https://open.spotify.com/user/316jsag3fisl42rcnnssu7jersee) -->
   
 ## 📫 How to reach me? 
