@@ -83,6 +83,9 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/aws.gif"  height="45" />
   </a>
+  <a href="https://www.postman.com/" target="_blank" >
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/postman.gif" height="50" />
+  </a>
 
 <!-- ### CI/CD Tools -->
   
@@ -108,9 +111,6 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
   </a>
   <a href="https://min.io/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/minio.png" height="50" />
-  </a>
-  <a href="https://www.postman.com/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/postman.gif" height="50" />
   </a>
   <a href="https://redis.io/" target="_blank" >
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/redis.webp" height="50" />
