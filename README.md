@@ -17,7 +17,7 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
   
 <p><img align="left" src="https://github-stats-readme.dark-art108.vercel.app/api?username=DARK-art108&show_icons=true&theme=radical" alt="Akash-HelloWorld3" width = 450/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-HelloWorld3" alt="Akash-HelloWorld3" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-HelloWorld3" alt="Akash-HelloWorld3" width = 450/></p>
 
 <!--
 <p align = "center">
