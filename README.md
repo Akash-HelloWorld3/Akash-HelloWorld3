@@ -108,10 +108,8 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
  [<img src="https://spotify-readme.dark-art108.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="400" />](https://spotify-github-profile.vercel.app/api/view.svg?uid=31xrlebyk5se7fafw2fdj7u3q4em&redirect=true)
   
 ## 📫 How to reach me? 
-<p align = "center">
- <img src = "https://github.com/akashprabu/Portfolio/blob/main/media/images/programmer.svg" width = 400 height=200>
-</p>
-<p align = "center">
+ <img align='right' src = "https://github.com/akashprabu/Portfolio/blob/main/media/images/programmer.svg" width = 400 height=200>
+<!-- <p align = "center">
   <a href="https://www.linkedin.com/in/akashprabu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -124,11 +122,12 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
   <a href="mailto:appleakash202@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="G-Mail Badge"/>
   </a>
-</p>
-
+</p> -->
 
   ⦿ Visit my [Website](https://akashprabu.netlify.app/) 🌐 <br>
   ⦿ Follow me on [Instagram](https://www.instagram.com/_c.r.a.z.y_killer_/)🌐 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/akashprabu/) 👨🏻‍💻 <br>
+  ⦿ Follow me on [Twitter](https://twitter.com/Akash_c18) 🐦 <br>
   ⦿ Shoot Me an [Email](mailto:appleakash202@gmail.com) 💌 <br>
 
 <img src="https://github.com/rahulsiddarth/rahulsiddarth/blob/main/bottom_header.svg">
