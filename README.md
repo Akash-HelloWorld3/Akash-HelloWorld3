@@ -16,7 +16,7 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
   <!-- ## 📊 Github Stats -->
   
 <p align = "center">
-  <img src = "https://github-stats-readme.dark-art108.vercel.app/api?username=DARK-art108&show_icons=true&theme=radical" width = 400 height= 200>
+  <img src = "https://github-stats-readme.dark-art108.vercel.app/api?username=DARK-art108&show_icons=true&theme=radical" width = 400 height= 400>
   <img src = "https://github-stats-readme.dark-art108.vercel.app/api/top-langs/?username=DARK-art108&layout=compact" width = 400>
  <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsiddarth&layout=compact" width = 400>
   <img src = "https://github.com/rahulsiddarth/rahulsiddarth/blob/main/blogging.svg" width = 400 height=200> -->
