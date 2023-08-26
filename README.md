@@ -108,7 +108,7 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
  [<img src="https://spotify-readme.dark-art108.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="400" />](https://spotify-github-profile.vercel.app/api/view.svg?uid=31xrlebyk5se7fafw2fdj7u3q4em&redirect=true)
   
 ## 📫 How to reach me? 
- <img align='right' src = "https://github.com/akashprabu/Portfolio/blob/main/media/images/programmer.svg" width = 400 height=200>
+ <!--<img align='right' src = "https://github.com/akashprabu/Portfolio/blob/main/media/images/programmer.svg" width = 400 height=200> -->
 <!-- <p align = "center">
   <a href="https://www.linkedin.com/in/akashprabu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
