@@ -111,10 +111,19 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
 <p align = "center">
  <img src = "https://github.com/rahulsiddarth/rahulsiddarth/blob/main/blogging.svg" width = 400 height=200>
 </p>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/akashprabu/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/Akash_c18">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
   ⦿ Visit my [Website](https://akashprabu.netlify.app/) 🌐 <br>
   ⦿ Follow me on [Instagram](https://www.instagram.com/_c.r.a.z.y_killer_/)🌐 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/akashprabu/) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Twitter](https://twitter.com/Akash_c18) 🐦 <br>
   ⦿ Shoot Me an [Email](mailto:appleakash202@gmail.com) 💌 <br>
 
 <img src="https://github.com/rahulsiddarth/rahulsiddarth/blob/main/bottom_header.svg">
