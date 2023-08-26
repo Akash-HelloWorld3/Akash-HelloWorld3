@@ -13,6 +13,15 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
 
 <img align='right' src="https://i.pinimg.com/originals/50/44/30/50443067a22e6dd1ecc2d2e394d6e634.gif" width="300">
 
+  ## 📊 Github Stats (Expand to View) 
+  
+<p align = "center">
+  <img src = "https://github-stats-readme.dark-art108.vercel.app/api?username=DARK-art108&show_icons=true&theme=radical" width = 400>
+  <img src = "https://github-stats-readme.dark-art108.vercel.app/api/top-langs/?username=DARK-art108&layout=compact" width = 400>
+ <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsiddarth&layout=compact" width = 400>
+  <img src = "https://github.com/rahulsiddarth/rahulsiddarth/blob/main/blogging.svg" width = 400 height=200> -->
+</p> 
+
 ## :zap: Skills
 
 <p float="left">
@@ -124,22 +133,6 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
   </a>
 </p>
  
-  ## 📊 Github Stats (Expand to View) 
-  
-  <details>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-
-<p align="center"> <img src="https://github-stats-readme.dark-art108.vercel.app/api?username=DARK-art108&show_icons=true&theme=radical" alt="DARK-art108" />
-
-</details>
-
-  <details>
-  <summary><b>📈 My Top Languages</b></summary>
-
-<p align="center"> <img src="https://github-stats-readme.dark-art108.vercel.app/api/top-langs/?username=DARK-art108&layout=compact" alt="DARK-art108"/>
-
-</details>
-
 <!-- ## 📊 My Kaggle Stats 
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ritesh2000/competition)
@@ -172,3 +165,18 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/akashprabu/) 👨🏻‍💻 <br>
   ⦿ Follow me on [Twitter](https://twitter.com/Akash_c18) 🐦 <br>
   ⦿ Shoot Me an [Email](mailto:appleakash202@gmail.com) 💌 <br>
+
+<!--
+  <details>
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+
+<p align="center"> <img src="https://github-stats-readme.dark-art108.vercel.app/api?username=DARK-art108&show_icons=true&theme=radical" alt="DARK-art108" /> 
+
+</details>
+
+  <details>
+  <summary><b>📈 My Top Languages</b></summary>
+
+<p align="center"> <img src="https://github-stats-readme.dark-art108.vercel.app/api/top-langs/?username=DARK-art108&layout=compact" alt="DARK-art108"/>
+
+</details> -->
