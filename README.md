@@ -1,4 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/000/693/934/original/dark-blue-technology-and-high-tech-abstract-background-vector.jpg)](https://akashprabu.netlify.app/)
+<!--[![MasterHead](https://static.vecteezy.com/system/resources/previews/000/693/934/original/dark-blue-technology-and-high-tech-abstract-background-vector.jpg)](https://akashprabu.netlify.app/) -->
 
 <h1 align="center">Hi , I'm Akashprabu A C<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
