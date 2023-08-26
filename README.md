@@ -111,7 +111,6 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
 <p align = "center">
  <img src = "https://github.com/akashprabu/Portfolio/blob/main/media/images/programmer.svg" width = 400 height=200>
 
-<div id="badges">
   <a href="https://www.linkedin.com/in/akashprabu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -124,7 +123,6 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
   <a href="mailto:appleakash202@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="G-Mail Badge"/>
   </a>
-</div>
 </p>
 
 
