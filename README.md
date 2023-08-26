@@ -126,7 +126,7 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
     <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/postgres.png" height="80" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" >
-    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/mysql.gif" width="90" />
+    <img src="https://github.com/Akash-HelloWorld3/Portfolio/blob/main/media/skills/mysql.gif" width="80" />
   </a>&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="70" />
