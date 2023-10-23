@@ -130,4 +130,4 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
   ⦿ Follow me on [Twitter](https://twitter.com/Akash_c18) 🐦 <br>
   ⦿ Shoot Me an [Email](mailto:appleakash202@gmail.com) 💌 <br>
 
-<img src="https://github.com/akashprabu/akashprabu/assets/bottom_header.svg">
+<img src="https://github.com/akashprabu/akashprabu/blob/main/assets/bottom_header.svg">
