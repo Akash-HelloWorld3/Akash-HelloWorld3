@@ -3,7 +3,7 @@
 
 I am [Akash](https://akashprabu.netlify.app/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in DevOps⚙️ and Software Development🧑🏻‍💻.
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashprabu&theme=algolia" alt="DARK-art108" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashprabu&theme=algolia" alt="Akashprabu-github-streaks" /></p>
 
 I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) on Ascendon Rating & Charging (ARC), a cloud-native SaaS product designed to help operators implement real-time online charging (OCS) functionality. I ❤️ to work with Cloud-Native technologies and Golang ( Go ). I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes, Docker, Openshift, Terraform, AWS,CI/CD, etc. and proficient with metric collection & monitoring tools such as Grafana, Kibana and Prometheus.
 
@@ -130,4 +130,4 @@ I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) o
   ⦿ Follow me on [Twitter](https://twitter.com/Akash_c18) 🐦 <br>
   ⦿ Shoot Me an [Email](mailto:appleakash202@gmail.com) 💌 <br>
 
-<img src="https://github.com/rahulsiddarth/rahulsiddarth/blob/main/bottom_header.svg">
+<img src="https://github.com/akashprabu/akashprabu/assets/bottom_header.svg">
