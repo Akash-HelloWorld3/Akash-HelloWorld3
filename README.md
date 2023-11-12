@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Akashprabu A C<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Akashprabu Athikombai Chandrasekaran<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 I am [Akash](https://akashprabu.netlify.app/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in DevOps⚙️ and Software Development🧑🏻‍💻.
