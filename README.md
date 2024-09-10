@@ -5,7 +5,7 @@ I am [Akash](https://akashprabu.netlify.app/), a passionate and creative develop
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashprabu&theme=algolia" alt="Akashprabu-github-streaks" /></p>
 
-I am a Sofware Engineer at @[CSG Systems International](https://www.csgi.com/) on Ascendon Rating & Charging (ARC), a cloud-native SaaS product designed to help operators implement real-time online charging (OCS) functionality. I ❤️ to work with Cloud-Native technologies and Golang ( Go ). I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes, Docker, Openshift, Terraform, AWS,CI/CD, etc. and proficient with metric collection & monitoring tools such as Grafana, Kibana and Prometheus.
+I am an MSCS Student at @[University of Southern California](https://www.usc.edu/), Los Angeles, California. Previously I worked at @[CSG Systems International](https://www.csgi.com/) on Ascendon Rating & Charging (ARC), a cloud-native SaaS product designed to help operators implement real-time online charging (OCS) functionality. I ❤️ to work with Cloud-Native technologies and Golang ( Go ). I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes, Docker, Openshift, Terraform, AWS,CI/CD, etc. and proficient with metric collection & monitoring tools such as Grafana, Kibana and Prometheus.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akashprabu" alt="akashprabu" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=akashprabu&show_icons=true&theme=radical" alt="akashprabu" width = 450/></p>
